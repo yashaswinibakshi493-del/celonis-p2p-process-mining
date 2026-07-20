@@ -53,8 +53,17 @@ This project analyzes the Procure-to-Pay (P2P) business process using Celonis Ex
 
 ## 🖼 Dashboard Screenshots
 
-Screenshots are available inside the **screenshots** folder.
+### Procurement Analysis
+![Procurement Analysis](screenshots/Procurement%20analysis.png)
 
+### Automation Analysis
+![Automation Analysis](screenshots/Automation.png)
+
+### Rework Analysis
+![Rework Analysis](screenshots/rework.png)
+
+### Benchmark Analysis
+![Benchmark Analysis](screenshots/Benchmark.png)
 ---
 
 ## 👩‍💻 Author
